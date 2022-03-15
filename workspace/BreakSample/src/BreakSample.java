@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class BreakExample {
-	public static void main(String[]) {
-		Scanner scanner = new Scanner(System.in)
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
 				
 		System.out.println("exit을 입력하면 종료합니다.");
-		while(True) {
+		while(true) {
 			System.out.print(">>");
 			String text = scanner.nextLine();
 			if(text.equals("exit"))
