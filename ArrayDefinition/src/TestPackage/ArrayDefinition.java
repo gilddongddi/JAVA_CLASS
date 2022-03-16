@@ -1,3 +1,5 @@
+package TestPackage;
+
 public class ArrayDefinition {
     public static void main(String[] args){
         //배열의 선언 방법 1
