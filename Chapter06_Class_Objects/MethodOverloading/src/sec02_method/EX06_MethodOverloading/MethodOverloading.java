@@ -18,6 +18,6 @@ public class MethodOverloading {
 		System.out.println(a);
 	}
 	public static void print(int a, int b) {
-		System.out.println("a: " + a + "b: " + b); 
+		System.out.println("a: " + a + " b: " + b); 
 	}
 }
