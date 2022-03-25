@@ -8,7 +8,7 @@ class Human{
 	void sleep() {}
 }
 class Student extends Human{	//Human클래스 상속
-	int studuntID;
+	int studentID;
 	void goToschool() {}
 }
 class Worker extends Human{		//Human클래스 상속
@@ -20,6 +20,27 @@ public class Inheritance {
 	public static void main(String[] args) {
 		//Human객체 생성
 		Human h = new Human();
-		h.name =
+		h.name = "김현지";
+		h.age = 11;
+		h.eat();
+		h.sleep();
+		
+		//Student 객체 생성
+		Student s = new Student();
+		s.name = "김민성";
+		s.age = 16;
+		s.studentID = 128;		//추가로 정의한 멤버
+		s.eat();
+		s.goToschool();   		//추가로 정의한 멤버
+		
+		//Worker 객체 생성
+		Worker w = new Worker();
+		w.name = "봉윤정";
+		w.age = 45;
+		w.workerID = 128; 		//추가로 정의한 멤버
+		w.eat();
+		w.sleep();
+		w.goToWork();  		 	//추가로 정의한 멤버
+				
 	}
 }
