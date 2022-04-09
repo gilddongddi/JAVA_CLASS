@@ -1,3 +1,4 @@
+//상속을 이용한 객체의 다형적 표현
 package sec01_inheritancepolymorphism.EX02_Polymorphism;
 
 //상속 관계 만들기
