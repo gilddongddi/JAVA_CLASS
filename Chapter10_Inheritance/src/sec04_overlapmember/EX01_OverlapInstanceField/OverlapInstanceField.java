@@ -18,3 +18,7 @@ public class OverlapInstanceField {
         System.out.println(ab.m);
     }
 }
+
+/* 인스턴스 필드는 상속받은 필드와 동일하 ㄴ이름으로 자식 클래스에서 정의해도
+각각의 저장 공간에 저장되므로 오버라이딩은 발생하지 않는다.
+ */
