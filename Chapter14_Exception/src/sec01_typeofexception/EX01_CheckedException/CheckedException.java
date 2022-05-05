@@ -8,6 +8,7 @@ class A implements Cloneable{
     protected Object clone() throws CloneNotSupportedException{
         return super.clone();
     }
+
 }
 public class CheckedException {
     public static void main(String[] args){
