@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b108a4b-afc6-4296-a389-b3caae08ead4" name="변경" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/sec05_inheritanceofgeneric/EX01_InheritanceGenericClass/InheritanceGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec05_inheritanceofgeneric/EX02_InheritanceGenericMethod/InheritanceGenericMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec04_boundedtype/EX03_BoundedTypeOfInputArguments/BoundedTypeOfInputArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sec04_boundedtype/EX03_BoundedTypeOfInputArguments/BoundedTypeOfInputArguments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651817613622</updated>
-      <workItem from="1651817614807" duration="10232000" />
+      <workItem from="1651817614807" duration="11280000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1651825042477</created>
@@ -136,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651825042477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1651839825251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651839825251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
