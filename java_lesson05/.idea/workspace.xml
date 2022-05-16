@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edbd2099-6c58-420e-a128-e61c89f68685" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chapter17_CollectionFramework/src/sec02_set/EX01_HashSetMethod/HashSetMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter17_CollectionFramework/src/sec02_set/EX02_HashSetMachanism/HashSetMachanism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter17_CollectionFramework/src/sec02_set/EX03_LinkedHashSetMethod/LinkedHashSetMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter17_CollectionFramework/src/sec02_set/EX04_TreeSetMethod_1/TreeSetMethod_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter17_CollectionFramework/src/sec02_set/EX05_TreeSetMethod_2/TreeSetMethod_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/groovy_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_lesson05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson05_person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson05_person/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson05_person/UpcastingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/.idea/libraries/groovy_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/java_lesson06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/src/lesson06_mathex/MathEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_lesson06/src/lesson06_stringbufferex/StringBufferEx.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29F6NBrJBNrQUBQsTcsRisUMUJr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UpcastingEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson05_person.UpcastingEx" />
+      <module name="java_lesson05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson05_person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.UpcastingEx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="edbd2099-6c58-420e-a128-e61c89f68685" name="변경" comment="" />
+      <created>1652696486792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652696486792</updated>
+      <workItem from="1652696487992" duration="4457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
